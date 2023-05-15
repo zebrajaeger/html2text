@@ -1,0 +1,6 @@
+.idea
+
+.ideaDataSources/
+*.pid
+*.ipr
+*.iml
